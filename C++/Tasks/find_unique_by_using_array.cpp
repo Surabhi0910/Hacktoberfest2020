@@ -1,5 +1,4 @@
 #include <iostream>
-#include "solution.h"
 using namespace std;
 
 //You have been given an integer array/list(ARR) of size N. Where N is equal to [2M + 1].
