@@ -1,10 +1,5 @@
 //
 //  taking input for linked list.cpp
-//  iste
-//
-//  Created by Apple on 26/09/20.
-//  Copyright © 2020 Apple. All rights reserved.
-//
 
 #include <iostream>
 using namespace std;
