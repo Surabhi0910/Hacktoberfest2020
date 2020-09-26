@@ -1,10 +1,6 @@
 //
 //  depth of the node of n-ary tree.cpp
-//  iste
-//
-//  Created by Apple on 26/09/20.
-//  Copyright © 2020 Apple. All rights reserved.
-//
+
 
 #include <iostream>
 #include<vector>
